@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn7lwymofEYr13oTMWnzoNN8V8kHB0w1HsOA&usqp=CAU">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="http://blogdobeck.com/wp-content/uploads/2018/07/anitta-nariz-capivara-06.jpg">
 </div>
   
   ##
