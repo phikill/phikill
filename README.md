@@ -17,5 +17,4 @@
   <a href="https://www.youtube.com/watch?v=5DlROhT8NgU" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://media4.giphy.com/media/5MxvgLxp5p732/giphy.gif?cid=ecf05e47srrqki9dnjevh8a7kn1m9b7nmdn1z96iokjybk7u&rid=giphy.gif&ct=g)
-  ![WHOT LOPP](https://media1.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif?cid=ecf05e47wurzb919wqz0rdkzowpa4eb5tat3qozuez4ijfvi&rid=giphy.gif&ct=g)
 </div>
