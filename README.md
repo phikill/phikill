@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/twbs/icons/blob/main/icons/cpu.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/intel.svg">
     <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="left" alt="Rafa-pic" height="130" style="border-radius:30px;" src="https://images.uncyc.org/pt/thumb/1/17/Esquilo_terrorista.jpg/300px-Esquilo_terrorista.jpg">
 </div>
