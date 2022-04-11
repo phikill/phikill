@@ -14,7 +14,7 @@
  
 <div> 
   <a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/watch?v=5DlROhT8NgU" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/watch?v=ZZ5LpwO-An4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Squirrel](https://media1.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47phvf052wfimxh2zr6ah234ha2zjzcxx5bj7i8l3h&rid=giphy.gif&ct=g)
 </div>
