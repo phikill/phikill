@@ -3,6 +3,7 @@
   <a href="https://github.com/phikill">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phikill&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=dark"/>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoschrock&color=yellow" alt="Profile views" /> </p>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/intel.svg">
