@@ -1,8 +1,8 @@
 ## Olá: o que procuras ?
 ![Phikill's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight)
-<div align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=dark"/>
+<div align="right">
   <a href="https://github.com/phikill">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=dark"/>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="Profile views" /> </p>
 </div>
 <div style="display: inline_block"><br>
