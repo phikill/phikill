@@ -1,8 +1,8 @@
 ## RECEBA! o Melhor do Mundo Voltou!
 <div align="center">
   <a href="https://github.com/phikill">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=phikill&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="70em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=phikill&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=dark"/>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="Profile views" /> </p>
 </div>
 <div style="display: inline_block"><br>
