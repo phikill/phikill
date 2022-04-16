@@ -1,7 +1,7 @@
 ## Olá: o que procuras ?
+![Phikill's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight)
 <div align="center">
   <a href="https://github.com/phikill">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=phikill&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=dark"/>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="Profile views" /> </p>
 </div>
@@ -10,6 +10,8 @@
     <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="left" alt="Rafa-pic" height="130" style="border-radius:30px;" src="https://images.uncyc.org/pt/thumb/1/17/Esquilo_terrorista.jpg/300px-Esquilo_terrorista.jpg">
 </div>
+  
+
   
   ##
  
