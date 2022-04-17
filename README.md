@@ -1,4 +1,4 @@
-## Olá: o que procuras ?
+## Olá: não fique a vontade, relaxar demais pode reduzir seu nivel de alerta!
 ![Phikill's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight)
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=dark"/>
 <div align="right">
