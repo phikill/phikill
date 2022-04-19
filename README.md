@@ -7,7 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Intel" height="30" width="40" src="https://www.freeiconspng.com/uploads/intel-logo-png-2.png">
-  <img aling="center" alt="C" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img aling="center" alt="C" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
     <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="left" alt="Rafa-pic" height="130" style="border-radius:30px;" src="https://images.uncyc.org/pt/thumb/1/17/Esquilo_terrorista.jpg/300px-Esquilo_terrorista.jpg">
 </div>
