@@ -1,6 +1,6 @@
 ## Olá: pegue o que precisar! o importante é vencer em batalha.
-![Phikill's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight)
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=dark"/>
+<img height="160em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=tokyonight"/>
 <div align="right">
   <a href="https://github.com/phikill">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="Profile views" /> </p>
