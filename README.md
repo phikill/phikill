@@ -3,8 +3,8 @@
 
 
 <img src="https://media1.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47phvf052wfimxh2zr6ah234ha2zjzcxx5bj7i8l3h&rid=giphy.gif&ct=g" min-width="150px" max-width="150px" width="450px" align="right" alt="logo iuricode">
-<img align="left" height="159em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight"/>
-<img align="left" height="159em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=tokyonight"/>
+<img align="left" height="150em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight"/>
+<img align="left" height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=tokyonight"/>
 <div align="right">
   <a href="https://github.com/phikill">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="Profile views" /> </p>
