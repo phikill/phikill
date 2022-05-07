@@ -29,7 +29,7 @@
   
   ## Inicio.
   1. Sou Estudante
-  2. list
-     * With some
+  2. Não sei muita coisa.
+     * Desejo ser programador para jogos digitais
      * Sub bullets
 </details>
