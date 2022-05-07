@@ -33,10 +33,10 @@
      * Desejo ser programador para jogos digitais.
      * Meu proposito é rodar tudo em um computador basico.
      * JOGOS em projeto!...
-     * [Bloody Ants Z]
-     * [FB-I AM]
-     * [Passnasty fantasy]
+     * [ Bloody Ants Z ]
+     * [ FB-I AM ]
+     * [ Passnasty fantasy ]
      * e fazer meu proprio motor gráfico.
      * linguagens de programação em estudos!...
-     * [c/c++  c#  e JAVA]     
+     * [ c/c++  c#  e JAVA ]     
 </details>
