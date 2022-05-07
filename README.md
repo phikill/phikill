@@ -36,5 +36,7 @@
      * Bloody Ants Z
      * FB-I AM
      * Passnasty fantasy
-     * e Fazer meu proprio motor gráfico.
+     * e fazer meu proprio motor gráfico.
+     * linguagens de programação em estudos!...
+     * c/c++/c#_____JAVA     
 </details>
