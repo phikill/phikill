@@ -24,4 +24,12 @@
 <img align="left" height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=tokyonight"/>
   
 </div>
+  <details>
+  <summary>Click to expand!</summary>
   
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
