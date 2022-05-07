@@ -25,10 +25,10 @@
   
 </div>
   <details>
-  <summary>Click to expand!</summary>
+  <summary>More Info!</summary>
   
-  ## Heading
-  1. A numbered
+  ## Inicio.
+  1. Sou Estudante
   2. list
      * With some
      * Sub bullets
