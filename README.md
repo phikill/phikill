@@ -25,12 +25,16 @@
   
 </div>
   <details>
-  <summary>More Info!</summary>
+  <summary>Clicke aqui!</summary>
   
   ## Inicio.
   1. Sou Estudante
   2. Não sei muita coisa.
      * Desejo ser programador para jogos digitais.
      * Meu proposito é rodar tudo em um computador basico.
-     *
+     * JOGOS em projeto!...
+     * Bloody Ants Z
+     * FB-I AM
+     * Passnasty fantasy
+     * e Fazer meu proprio motor gráfico.
 </details>
