@@ -30,6 +30,7 @@
   ## Inicio.
   1. Sou Estudante
   2. Não sei muita coisa.
-     * Desejo ser programador para jogos digitais
-     * Sub bullets
+     * Desejo ser programador para jogos digitais.
+     * Meu proposito é rodar tudo em um computador basico.
+     *
 </details>
