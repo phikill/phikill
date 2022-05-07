@@ -38,5 +38,5 @@
      * Passnasty fantasy
      * e fazer meu proprio motor gráfico.
      * linguagens de programação em estudos!...
-     * c/c++/c#_____JAVA     
+     * c/c++  c#  e JAVA     
 </details>
