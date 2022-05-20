@@ -42,8 +42,8 @@
   #### Future Projects.
   # FOR POTATO PC'S
      * V PROJETOS V
-     * 0ka_salad Game Engine
-     * [ Bloody Ants Z ] 
-     * [ FB-I AM ]
-     * [ Passnasty fantasy ]
+     * |0ka_salad Game Engine|
+     * | Bloody Ants Z | 
+     * | FB-I AM |
+     * | Passnasty fantasy |
 </details>
