@@ -1,4 +1,7 @@
-## Olá: pegue o que precisar! o importante é vencer em batalha.
+## Olá: pegue o que precisar! o importante é vencer em batalha. <div align="right">
+  <a href="https://github.com/phikill">
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="Views" /> </p>
+</div>
 <h1 align="height"><img src="https://media3.giphy.com/media/3o7bu9xd7jdNlphUZO/giphy.gif?cid=ecf05e47bfjwtenlnjdmr1g79ytn8nyf6lm0s7vthz6t381a&rid=giphy.gif&ct=s" width="40px">Sou novato em programar. </h1></img>
 
 </div>
@@ -22,10 +25,6 @@
      - [x] DOS Language
 </details>
 
-<div align="right">
-  <a href="https://github.com/phikill">
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="Profile views" /> </p>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Intel" height="30" width="40" src="https://www.freeiconspng.com/uploads/intel-logo-png-2.png">
   <img aling="center" alt="C" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
