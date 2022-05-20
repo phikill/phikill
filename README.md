@@ -41,7 +41,7 @@
   
   #### Future Projects.
   # FOR POTATO PC'S
-     * @ projetos V
+     * V PROJETOS V
      * 0ka_salad Game Engine
      * [ Bloody Ants Z ] 
      * [ FB-I AM ]
