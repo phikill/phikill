@@ -1,6 +1,26 @@
 ## Olá: pegue o que precisar! o importante é vencer em batalha.
 <h1 align="height"><img src="https://media3.giphy.com/media/3o7bu9xd7jdNlphUZO/giphy.gif?cid=ecf05e47bfjwtenlnjdmr1g79ytn8nyf6lm0s7vthz6t381a&rid=giphy.gif&ct=s" width="40px">Sou novato em programar. </h1></img>
 
+</div>
+  <details>
+  <summary>More Info!</summary>
+  
+  #### Info.
+  * 1. Sou Estudante
+   * 2. Não sei muita coisa.
+     * Desejo ser programador para jogos.
+     * JOGOS em projeto!...
+     - [x] [ Bloody Ants Z ]
+     - [ ] [ FB-I AM ]
+     - [ ] [ Passnasty fantasy ]
+     * e fazer meu proprio motor gráfico.
+      [ ] 0ka_salad Game Engine
+     * linguagens de programação em estudos!...
+     - [ ]  JAVA
+     - [ ] C/C++
+     - [ ] C# 
+     - [ ] DOS Language
+</details>
 
 <div align="right">
   <a href="https://github.com/phikill">
@@ -22,23 +42,3 @@
   <img align="left" height="160em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight"/>
 <img align="left" height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=tokyonight"/>
   
-</div>
-  <details>
-  <summary>More Info!</summary>
-  
-  #### Info.
-  * 1. Sou Estudante
-   * 2. Não sei muita coisa.
-     * Desejo ser programador para jogos.
-     * JOGOS em projeto!...
-     - [x] [ Bloody Ants Z ]
-     - [ ] [ FB-I AM ]
-     - [ ] [ Passnasty fantasy ]
-     * e fazer meu proprio motor gráfico.
-      [ ] 0ka_salad Game Engine
-     * linguagens de programação em estudos!...
-     - [ ]  JAVA
-     - [ ] C/C++
-     - [ ] C# 
-     - [ ] DOS Language
-</details>
