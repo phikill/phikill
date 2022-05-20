@@ -9,11 +9,11 @@
   <summary>More Info! <  </summary>
   
   ## Info.
-  * 1. Sou Estudante
-   * 2. Não sei muita coisa.
+  * I. Sou Estudante
+   * II. Não sei muita coisa.
      * @Desejo ser programador para jogos.
      * @ JOGOS em projeto!...
-     - [x] [ Bloody Ants Z ] - [ ] [ FB-I AM ]
+     - [x] [ Bloody Ants Z ] 
      - [ ] [ FB-I AM ]
      - [ ] [ Passnasty fantasy ]
      * @ e fazer meu proprio motor gráfico.
