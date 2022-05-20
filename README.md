@@ -41,3 +41,15 @@
   <img align="left" height="160em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight"/>
 <img align="left" height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=tokyonight"/>
   
+</div>
+  <details>
+  <summary>More Info! <  </summary>
+  
+  #### Future Projects.
+  * BaSiC
+     * @ projetos V
+     - [X] 0ka_salad Game Engine
+     - [ ] [ Bloody Ants Z ] 
+     - [ ] [ FB-I AM ]
+     - [ ] [ Passnasty fantasy ]
+</details>
