@@ -8,18 +8,18 @@
   #### Info.
   * 1. Sou Estudante
    * 2. Não sei muita coisa.
-     * Desejo ser programador para jogos.
-     * JOGOS em projeto!...
-     - [x] [ Bloody Ants Z ]
+     * @Desejo ser programador para jogos.
+     * @ JOGOS em projeto!...
+     - [x] [ Bloody Ants Z ] - [ ] [ FB-I AM ]
      - [ ] [ FB-I AM ]
      - [ ] [ Passnasty fantasy ]
-     * e fazer meu proprio motor gráfico.
-      [ ] 0ka_salad Game Engine
-     * linguagens de programação em estudos!...
-     - [ ]  JAVA
+     * @ e fazer meu proprio motor gráfico.
+     - [ ] 0ka_salad Game Engine
+     *  @ linguagens de programação em estudos!...
+     - [x]  JAVA
      - [ ] C/C++
      - [ ] C# 
-     - [ ] DOS Language
+     - [x] DOS Language
 </details>
 
 <div align="right">
