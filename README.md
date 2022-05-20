@@ -2,7 +2,7 @@
   <a href="https://github.com/phikill">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="Views" /> </p>
 </div>
-<h1 align="height"><img src="https://media3.giphy.com/media/3o7bu9xd7jdNlphUZO/giphy.gif?cid=ecf05e47bfjwtenlnjdmr1g79ytn8nyf6lm0s7vthz6t381a&rid=giphy.gif&ct=s" width="40px">Sou novato em programar. </h1></img>
+<h1 align="height"><img src="https://media1.giphy.com/media/OLHoXQgCVSWnfaVgXZ/giphy.gif?cid=790b7611ce304b6e091d2b9cbff0cbb2ce49419f81178279&rid=giphy.gif&ct=s" width="40px">Sou novato em programar. </h1></img>
 
 </div>
   <details>
