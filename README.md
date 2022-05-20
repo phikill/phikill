@@ -17,21 +17,20 @@
      - [ ] C/C++
      - [ ] C# 
      - [x] DOS Language
+   
     
-
-</details>
-
-  
-                      _           _                
-                     (_)         (_)            
-     ____   _     _   _   _  __   _  _        _
-    |  _ | | |___| | | | | |/ /  | || |      | |
-    |  __| | |___| | | | | |_/_  | || |      | |
-    | |    | |   | | | | | |\  \ | || |_____ | |____
-    |_|    |_|   |_| |_| |_| |__\|_||_______||______|
+     ____   _     _   _   _  __   _  _       _
+    |  _ | | |___| | | | | |/ /  | || |     | |
+    |  __| | |___| | | | | |_/_  | || |     | |
+    | |    | |   | | | | | |\  \ | || |____ | |____
+    |_|    |_|   |_| |_| |_| |__\|_||______||______|
   
 ascii-art
 ============
+
+</details>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Intel" height="30" width="40" src="https://www.freeiconspng.com/uploads/intel-logo-png-2.png">
   <img aling="center" alt="C" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
