@@ -3,9 +3,9 @@
 
 </div>
   <details>
-  <summary>More Info!</summary>
+  <summary>More Info! <  </summary>
   
-  #### Info.
+  ## Info.
   * 1. Sou Estudante
    * 2. Não sei muita coisa.
      * @Desejo ser programador para jogos.
