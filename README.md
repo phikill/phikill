@@ -43,13 +43,13 @@
   
 </div>
   <details>
-  <summary>More Info! <  </summary>
+  <summary>More of More! <  </summary>
   
   #### Future Projects.
   * BaSiC
      * @ projetos V
-     - [X] 0ka_salad Game Engine
-     - [ ] [ Bloody Ants Z ] 
-     - [ ] [ FB-I AM ]
-     - [ ] [ Passnasty fantasy ]
+     * 0ka_salad Game Engine
+     * [ Bloody Ants Z ] 
+     * [ FB-I AM ]
+     * [ Passnasty fantasy ]
 </details>
