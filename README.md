@@ -24,18 +24,21 @@
   
 </div>
   <details>
-  <summary>Clicke aqui!</summary>
+  <summary>More Info!</summary>
   
-  ## Inicio.
-  1. Sou Estudante
-  2. Não sei muita coisa.
-     * Desejo ser programador para jogos digitais.
-     * Meu proposito é rodar tudo em um computador basico.
+  #### Info.
+  * 1. Sou Estudante
+   * 2. Não sei muita coisa.
+     * Desejo ser programador para jogos.
      * JOGOS em projeto!...
-     * [ Bloody Ants Z ]
-     * [ FB-I AM ]
-     * [ Passnasty fantasy ]
+     - [x] [ Bloody Ants Z ]
+     - [ ] [ FB-I AM ]
+     - [ ] [ Passnasty fantasy ]
      * e fazer meu proprio motor gráfico.
+      [ ] 0ka_salad Game Engine
      * linguagens de programação em estudos!...
-     * [ c/c++  c#  e JAVA ]     
+     - [ ]  JAVA
+     - [ ] C/C++
+     - [ ] C# 
+     - [ ] DOS Language
 </details>
