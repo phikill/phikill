@@ -30,7 +30,16 @@
   ███          ███    ███   ███    ███ ▀███▄ ███  ███▌    ▄ ███▌    ▄ 
  ▄████▀        ███    █▀    █▀     ███   ▀█▀ █▀   █████▄▄██ █████▄▄██ 
                                    ▀              ▀         ▀        
-                              _                      _                                     
+                              _                      _                     
+    
+  
+ ██████╗ ██╗  ██╗██╗██╗  ██╗██╗██╗     ██╗     
+ ██╔══██╗██║  ██║██║██║ ██╔╝██║██║     ██║     
+ ██████╔╝███████║██║█████╔╝ ██║██║     ██║     
+ ██╔═══╝ ██╔══██║██║██╔═██╗ ██║██║     ██║     
+ ██║     ██║  ██║██║██║  ██╗██║███████╗███████╗
+ ╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Intel" height="30" width="40" src="https://www.freeiconspng.com/uploads/intel-logo-png-2.png">
   <img aling="center" alt="C" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
