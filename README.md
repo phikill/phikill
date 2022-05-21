@@ -8,9 +8,9 @@
   <details>
   <summary>More Info! <  </summary>
   
-  ## Info.
-  * I. Sou Estudante
-   * II. Não sei muita coisa.
+  # Info.
+  * 1. Sou Estudante
+   * 2. Não sei muita coisa.
      * @Desejo ser programador para jogos.
      *  @ linguagens de programação em estudos!...
      - [x]  JAVA
