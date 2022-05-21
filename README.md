@@ -15,8 +15,8 @@
      *  @ linguagens de programação em estudos!...
      - [x]  JAVA
      - [x] DOS Language
-     - [ ] C/C++
      - [ ] C# 
+     - [ ] C/C++
    
     
      _______            _   _   __   _   _       _
