@@ -14,9 +14,9 @@
      * @Desejo ser programador para jogos.
      *  @ linguagens de programação em estudos!...
      - [x]  JAVA
+     - [x] DOS Language
      - [ ] C/C++
      - [ ] C# 
-     - [x] DOS Language
    
     
      _______            _   _   __   _   _       _
