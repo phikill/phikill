@@ -37,10 +37,11 @@ simple ASCII art
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Intel" height="30" width="40" src="https://www.freeiconspng.com/uploads/intel-logo-png-2.png">
-  <img aling="center" alt="C" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
     <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
     <img align="center" alt="MS-DOS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg">
-    <img align="center" alt="cplus" height="30" width="30" src="https://img.icons8.com/color/344/c-plus-plus-logo.png">
+    <img aling="center" alt="C" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="cplus" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="csharkbro" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
   
   ##
