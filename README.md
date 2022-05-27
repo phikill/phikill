@@ -47,7 +47,7 @@ simple ASCII art
 
   
   <img align="left" height="150em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight"/>
-  <img align="left" height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="left" height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=tokyonight"/>
   
   </div>
       <a align="left" href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-pN2004?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
