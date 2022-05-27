@@ -39,8 +39,8 @@ simple ASCII art
   <img align="center" alt="Intel" height="30" width="40" src="https://www.freeiconspng.com/uploads/intel-logo-png-2.png">
     <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
     <img align="center" alt="MS-DOS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg">
-    <img aling="center" alt="C" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="cpp" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img aling="center" alt="C" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+    <img align="center" alt="cpp" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
     <img align="center" alt="csharp" height="30" widht="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"
 </div>
   
