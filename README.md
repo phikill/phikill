@@ -1,4 +1,4 @@
-## Olá: pegue o que precisar! o importante é vencer em batalha.__________________________ -- [] X <div align="right">
+## Olá: pegue o que precisar! o importante é vencer em batalha.________________________ -- [] X <div align="right">
   <a href="https://github.com/phikill">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="Views" /> </p>
 </div>
