@@ -1,8 +1,8 @@
-## Olá: pegue o que precisar! o importante é vencer em batalha. <div align="right">
+## Olá: pegue o que precisar! o importante é vencer em batalha.__________________________ -- [] X <div align="right">
   <a href="https://github.com/phikill">
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="Views" /> </p>
+    <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="Views" /> </p>
 </div>
-<h1 align="height"><img src="https://media1.giphy.com/media/OLHoXQgCVSWnfaVgXZ/giphy.gif?cid=790b7611ce304b6e091d2b9cbff0cbb2ce49419f81178279&rid=giphy.gif&ct=s" width="40px">Sou novato em programar. </h1></img>
+<h1 align="left"><img src="https://media1.giphy.com/media/OLHoXQgCVSWnfaVgXZ/giphy.gif?cid=790b7611ce304b6e091d2b9cbff0cbb2ce49419f81178279&rid=giphy.gif&ct=s" width="40px">Sou novato em programar. </h1></img>
 
 </div>
   <details>
@@ -50,9 +50,9 @@ simple ASCII art
       <a align="right" href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-pN2004?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a align="right" href="https://steamcommunity.com/id/Phikill/" target="_blank"><img src="https://img.shields.io/badge/-STEAM-%23000?style=for-the-badge&logo=STEAM&logoColor=white" target="_blank"></a>
   
- [![stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=dark)] 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phikill&theme=dark&background=000000)](https://git.io/streak-stats)] <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=dark)]
+ [![stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight)] 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phikill&theme=tokyonight&background=)](https://git.io/streak-stats)] <br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=tokyonight)]
 
   
   </div>
