@@ -9,14 +9,15 @@
   <summary>More Info! <  </summary>
   
   # Info.
-  * 1. Sou Estudante
-   * 2. Não sei muita coisa.
-     * @Desejo ser programador para jogos.
-     *  @ linguagens de programação em estudos!...
+  * 1. I am a student
+   * 2. I don't know much.
+     * @I want to be a game programmer.
+     *  @ programming languages ​​in studies!...
      - [x]  JAVA
      - [x] DOS Language
      - [ ] C# 
      - [ ] C/C++
+     - [ ] Intel 4004 Assembly
    
     
      _______            _   _   __   _   _       _
