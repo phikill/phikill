@@ -47,7 +47,8 @@ simple ASCII art
   
 ### :computer: User Stats :
 </div> 
-
+      <a align="right" href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-pN2004?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a align="right" href="https://steamcommunity.com/id/Phikill/" target="_blank"><img src="https://img.shields.io/badge/-STEAM-%23000?style=for-the-badge&logo=STEAM&logoColor=white" target="_blank"></a>
   
  [![stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=dark)] 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phikill&theme=dark&background=000000)](https://git.io/streak-stats)] <br>
@@ -55,8 +56,6 @@ simple ASCII art
 
   
   </div>
-      <a align="right" href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-pN2004?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a align="right" href="https://steamcommunity.com/id/Phikill/" target="_blank"><img src="https://img.shields.io/badge/-STEAM-%23000?style=for-the-badge&logo=STEAM&logoColor=white" target="_blank"></a>
   
 </div>
   <details>
