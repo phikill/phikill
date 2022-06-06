@@ -44,15 +44,19 @@ simple ASCII art
     <img align="center" alt="csharp" height="30" widht="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"
 </div>
   
-</div>
+  
+### :computer: User Stats :
+</div> 
 
   
-  <img align="left" height="150em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight"/>
-  <img align="left" height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=tokyonight"/>
+ [![stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=dark)] 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phikill&theme=dark&background=000000)](https://git.io/streak-stats)] <br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=dark)]
+
   
   </div>
-      <a align="left" href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-pN2004?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a align="left" href="https://steamcommunity.com/id/Phikill/" target="_blank"><img src="https://img.shields.io/badge/-STEAM-%23000?style=for-the-badge&logo=STEAM&logoColor=white" target="_blank"></a>
+      <a align="right" href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-pN2004?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a align="right" href="https://steamcommunity.com/id/Phikill/" target="_blank"><img src="https://img.shields.io/badge/-STEAM-%23000?style=for-the-badge&logo=STEAM&logoColor=white" target="_blank"></a>
   
 </div>
   <details>
