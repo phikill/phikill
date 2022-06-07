@@ -1,12 +1,12 @@
 ## Olá: pegue o que precisar! ______________________________________________________ -- [] X <div align="right">
   
   <img src="https://www.seekpng.com/png/full/184-1840407_computer-tumblr-transparent-old-computer-tumblr-transparent.png" min-width="150px" max-width="150px" width="150px" align="right" alt="logo iuricode">
-<h1 align="height">Mr. Phills makes to bad computers </h1></img>
+<h1 align="height"></h1></img>
 
   <a href="https://github.com/phikill">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="Views" /> </p>
 </div>
-<h1 align="left"><img src="https://media1.giphy.com/media/OLHoXQgCVSWnfaVgXZ/giphy.gif?cid=790b7611ce304b6e091d2b9cbff0cbb2ce49419f81178279&rid=giphy.gif&ct=s" width="40px">Sou novato em programar. </h1></img>
+<h1 align="left"><img src="https://www.communardo.com/wp-content/uploads/2016/12/ibm-logo-png-transparent-background-300x150.png" width="40px"> Sou novato em programar. </h1></img>
 
 </div>
   <details>
@@ -81,4 +81,6 @@ simple ASCII art
     
   [BUILD INSPENCER](https://github.com/NikuraCorp/build-inspencer-Engine)
 </details>
+  
+   [//]:https://media1.giphy.com/media/OLHoXQgCVSWnfaVgXZ/giphy.gif?cid=790b7611ce304b6e091d2b9cbff0cbb2ce49419f81178279&rid=giphy.gif&ct=s
   
