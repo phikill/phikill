@@ -1,4 +1,8 @@
-## Olá: pegue o que precisar! o importante é vencer em batalha.____________________ -- [] X <div align="right">
+## Olá: pegue o que precisar! ______________________________________________________ -- [] X <div align="right">
+  
+  <img src="https://www.seekpng.com/png/full/184-1840407_computer-tumblr-transparent-old-computer-tumblr-transparent.png" min-width="150px" max-width="150px" width="150px" align="right" alt="logo iuricode">
+<h1 align="height">Mr. Phills makes to bad computers </h1></img>
+
   <a href="https://github.com/phikill">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="Views" /> </p>
 </div>
