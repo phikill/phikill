@@ -51,10 +51,13 @@ simple ASCII art
       <a align="right" href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-pN2004?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a align="right" href="https://steamcommunity.com/id/Phikill/" target="_blank"><img src="https://img.shields.io/badge/-STEAM-%23000?style=for-the-badge&logo=STEAM&logoColor=white" target="_blank"></a>
   
- [![stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight)] 
+ [//]: [![stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight)] 
+  
+  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phikill&theme=tokyonight&background=)](https://git.io/streak-stats)] <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phikill&layout=compact&langs_count=7&theme=tokyonight)]
+ [![Top Langs](https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=phikill&langs_count=7&theme=tokyonight)]
 
+  
   
   </div>
   
