@@ -21,7 +21,7 @@
      - [x] DOS Language
      - [ ] C# 
      - [ ] C/C++
-     - [ ] Intel 4004 Assembly
+     - [ ] Intel Assembly
    
     
      _______            _   _   __   _   _       _
