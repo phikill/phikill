@@ -60,7 +60,7 @@ simple ASCII art
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phikill&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
  
- [![Top Langs](https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=phikill&langs_count=7&theme=tokyonight)]
+ [![Top Langs](https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=phikill&langs_count=7&theme=tokyonight)](https://github.com/NikuraCorp)
 
   
   
