@@ -58,7 +58,8 @@ simple ASCII art
  [//]: [![stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight)] 
   
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phikill&theme=tokyonight&background=)](https://git.io/streak-stats)] <br>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phikill&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
+ 
  [![Top Langs](https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=phikill&langs_count=7&theme=tokyonight)]
 
   
