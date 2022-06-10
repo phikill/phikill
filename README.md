@@ -1,6 +1,6 @@
 ## Olá: pegue o que precisar! ______________________________________________________ -- [] X <div align="right">
   
-  <img src="https://www.seekpng.com/png/full/184-1840407_computer-tumblr-transparent-old-computer-tumblr-transparent.png" min-width="150px" max-width="150px" width="150px" align="right" alt="logo iuricode">
+  <img src="anticon.png" min-width="150px" max-width="150px" width="150px" align="right" alt="logo iuricode">
 <h1 align="height"></h1></img>
 
   <a href="https://github.com/phikill">
