@@ -1,6 +1,6 @@
 ## Olá: pegue o que precisar! ______________________________________________________ -- [] X <div align="right">
   
-  <img src="anticon.png" min-width="150px" max-width="150px" width="150px" align="right" alt="logo iuricode">
+  <img src="BIGE.png" min-width="250px" max-width="250px" width="350px" align="right" alt="logo iuricode">
 <h1 align="height"></h1></img>
 
   <a href="https://github.com/phikill">
