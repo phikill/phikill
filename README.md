@@ -7,44 +7,15 @@
 </div>
 <h1 align="left"><img src="anticon.png" width="40px"> Sou novato em programar. </h1></img>
 
-</div>
-  <details>
-  <summary>More Info! <  </summary>
-  
-  # Info.
-  * 1. I am a student
-   * 2. I don't know much.
-     * @I want to be a game programmer.
-     *  @ programming languages ​​in studies!...
-     - [x]  JAVA
-     - [x] DOS Language
-     - [ ] C# 
-     - [ ] C/C++
-     - [ ] Intel Assembly
-   
-    
-     _______            _   _   __   _   _       _
-                   
-                                ██████╗  ██╗  ██╗ ██╗ ██╗  ██╗ ██╗ ██╗     ██╗                         
-                                ██╔══██╗ ██║  ██║ ██║ ██║ ██╔╝ ██║ ██║     ██║                         
-                                ██████╔╝ ███████║ ██║ █████╔╝  ██║ ██║     ██║                         
-                                ██╔═══╝  ██╔══██║ ██║ ██╔═██╗  ██║ ██║     ██║                          
-                                ██║      ██║  ██║ ██║ ██║  ██╗ ██║ ███████╗███████╗             
-                                ╚═╝      ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═╝ ╚═╝ ╚══════╝╚══════╝           
-  
-simple ASCII art
-============
 
-</details>
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Intel" height="30" width="40" src="https://www.freeiconspng.com/uploads/intel-logo-png-2.png">
-    <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    <img align="center" alt="Intel"  src="https://img.shields.io/badge/Assembly-1572B6?style=for-the-badge&logo=intel&logoColor=white">
+    <img align="center" alt="JAVA"   src="https://img.shields.io/badge/Java-%239005?style=for-the-badge&logo=java&logoColor=white">
     <img align="center" alt="MS-DOS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg">
-    <img aling="center" alt="C" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-    <img align="center" alt="cpp" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
-    <img align="center" alt="csharp" height="30" widht="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"
+    <img align="center" alt="cpp"    src="https://img.shields.io/badge/c++-1572B6?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img align="center" alt="csharp" src="https://img.shields.io/badge/csharp-1572B6?style=for-the-badge&logo=csharp&logoColor=white"
 </div>
   
   
@@ -68,7 +39,33 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
   
 </div>
   <details>
-  <summary>More of More! <  </summary>
+  <summary>More info! <  </summary>
+    
+   # Info.
+  * 1. I am a student
+   * 2. I don't know much.
+     * @I want to be a game programmer.
+     *  @ programming languages ​​in studies!...
+     - [x]  JAVA
+     - [x] DOS Language
+     - [ ] C# 
+     - [ ] C/C++
+     - [ ] Intel Assembly
+   
+    
+     _______            _   _   __   _   _       _
+                   
+                                ██████╗  ██╗  ██╗ ██╗ ██╗  ██╗ ██╗ ██╗     ██╗                         
+                                ██╔══██╗ ██║  ██║ ██║ ██║ ██╔╝ ██║ ██║     ██║                         
+                                ██████╔╝ ███████║ ██║ █████╔╝  ██║ ██║     ██║                         
+                                ██╔═══╝  ██╔══██║ ██║ ██╔═██╗  ██║ ██║     ██║                          
+                                ██║      ██║  ██║ ██║ ██║  ██╗ ██║ ███████╗███████╗             
+                                ╚═╝      ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═╝ ╚═╝ ╚══════╝╚══════╝           
+  
+simple ASCII art
+============   
+    
+    
   
   #### Future Projects.
   # FOR POTATO PC'S
