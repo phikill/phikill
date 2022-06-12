@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="Intel"  src="https://img.shields.io/badge/Assembly-1572B6?style=for-the-badge&logo=intel&logoColor=white">
     <img align="center" alt="JAVA"   src="https://img.shields.io/badge/Java-%239005?style=for-the-badge&logo=java&logoColor=white">
-    <img align="center" alt="MS-DOS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg">
+    <img align="center" alt="c"      src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="cpp"    src="https://img.shields.io/badge/c++-1572B6?style=for-the-badge&logo=cplusplus&logoColor=white">
     <img align="center" alt="csharp" src="https://img.shields.io/badge/csharp-1572B6?style=for-the-badge&logo=csharp&logoColor=white"
 </div>
