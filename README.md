@@ -1,5 +1,5 @@
 
-  <img src="https://yt3.ggpht.com/ytc/AKedOLS-TR2p5nDfInanSiHio1BuNG16mpr8V70iN-Hx=s900-c-k-c0x00ffffff-no-rj" min-width="250px" max-width="250px" width="250px" align="right" alt="logo iuricode">
+  <img src="lolidozap-removebg-preview.png" min-width="250px" max-width="250px" width="250px" align="right" alt="logo iuricode">
 <h1 align="center">Pegue o que precisar! </h1></img>
 
   <a href="https://github.com/phikill">
