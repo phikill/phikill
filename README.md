@@ -3,7 +3,7 @@
 <h1 align="center">Olá pegue o que necessitas </h1></img>
 
   <a href="https://github.com/phikill">
-    <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=blue" alt="Views" /> </p>
+    <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=blue" alt="nice" /> </p>
 </div>
 <h1 align="left"><img src="anticon.png" width="40px"> Sou novato em programar. </h1></img>
 
