@@ -39,9 +39,12 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
   
 </div>
   <details>
-  <summary>More info!<  </summary>
-    
+  <summary>More info!  </summary>
+
    # Info.  
+  *|  
+  *|  
+  *|  
   * 1. I am a student  
    * 2. I don't know much.  
      * I want to be a game programmer.  
