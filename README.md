@@ -65,7 +65,6 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
 
   
   
-  </div>
   
 </div>
   <details>
