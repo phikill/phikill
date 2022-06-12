@@ -44,8 +44,8 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
    # Info.  
   * 1. I am a student  
    * 2. I don't know much.  
-     * @I want to be a game programmer.  
-     *  @ programming languages ​​in studies!...  
+     * I want to be a game programmer.  
+     * Programming languages ​​in studies!...  
      - [x]  JAVA  
      - [x] DOS Language  
      - [ ] C#  
