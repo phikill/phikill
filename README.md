@@ -58,10 +58,10 @@ simple ASCII art
   
 <img 
        align="right"
-height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=phikill&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=pt-br"/>(https://git.io/streak-stats)
+height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=phikill&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=pt-br"/>(https://git.io/streak-stats)
  <img 
        align="right"
-height="180em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=phikill&langs_count=20&theme=tokyonight"/>  
+height="160em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=phikill&langs_count=20&theme=tokyonight"/>  
 
   
   
