@@ -1,12 +1,11 @@
-## Olá: pegue o que precisar! ______________________________________________________ -- [] X <div align="right">
-  
+
   <img src="anticon.png" min-width="250px" max-width="250px" width="250px" align="right" alt="logo iuricode">
-<h1 align="height"></h1></img>
+<h1 align="center">Pegue o que precisar! </h1></img>
 
   <a href="https://github.com/phikill">
-    <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="Views" /> </p>
+    <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=blue" alt="Views" /> </p>
 </div>
-<h1 align="left"><img src="https://www.communardo.com/wp-content/uploads/2016/12/ibm-logo-png-transparent-background-300x150.png" width="40px"> Sou novato em programar. </h1></img>
+<h1 align="left"><img src="anticon.png" width="40px"> Sou novato em programar. </h1></img>
 
 </div>
   <details>
@@ -25,14 +24,13 @@
    
     
      _______            _   _   __   _   _       _
-                                 _______            _________  _        _________  _        _                      
-                                (  ___  ) |\     /| \__   __/ | \    /\ \__   __/ ( \      ( \                     
-                                | (   ) | | )   ( |    ) (    |  \  / /    ) (    | (      | (                     
-                                | (___) | | (___) |    | |    |  (_/ /     | |    | |      | |                     
-                                |  _____) |  ___  |    | |    |   _ (      | |    | |      | |                     
-                                | (       | |   | |    | |    |  ( \ \     | |    | |      | |                     
-                                | )       | |   | | ___) (___ |  /  \ \ ___) (___ | (____/\| (____/\               
-                                |/        |/     \| \_______/ |_/    \/ \_______/ (_______/(_______/               
+                   
+                                ██████╗  ██╗  ██╗ ██╗ ██╗  ██╗ ██╗ ██╗     ██╗                         
+                                ██╔══██╗ ██║  ██║ ██║ ██║ ██╔╝ ██║ ██║     ██║                         
+                                ██████╔╝ ███████║ ██║ █████╔╝  ██║ ██║     ██║                         
+                                ██╔═══╝  ██╔══██║ ██║ ██╔═██╗  ██║ ██║     ██║                          
+                                ██║      ██║  ██║ ██║ ██║  ██╗ ██║ ███████╗███████╗             
+                                ╚═╝      ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═╝ ╚═╝ ╚══════╝╚══════╝           
   
 simple ASCII art
 ============
@@ -58,9 +56,12 @@ simple ASCII art
  [//]: [![stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight)] 
   
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phikill&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
- 
- [![Top Langs](https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=phikill&langs_count=7&theme=tokyonight)](https://github.com/NikuraCorp)
+<img 
+       align="right"
+height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=phikill&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=pt-br"/>(https://git.io/streak-stats)
+ <img 
+       align="right"
+height="140em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=phikill&langs_count=20&theme=tokyonight"/>  
 
   
   
@@ -73,7 +74,7 @@ simple ASCII art
   #### Future Projects.
   # FOR POTATO PC'S
      * V PROJETOS V
-     * | Build Inspencer Game Engine|
+     * | Build Inspencer Game Engine |
      * | Bloody Ants Z | 
      * | FB-I AM |
      * | Passnasty fantasy |
