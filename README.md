@@ -1,6 +1,6 @@
 
   <img src="lolidozap-removebg-preview.png" min-width="250px" max-width="250px" width="200px" align="right" alt="LOLIDOZAP">
-<h1 align="center">Olá pegue o que necessitas </h1></img>
+<h1 align="center">Olá pegue o que necessitar </h1></img>
 
   <a href="https://github.com/phikill">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=blue" alt="nice" /> </p>
