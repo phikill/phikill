@@ -1,11 +1,11 @@
 
   <img src="lolidozap-removebg-preview.png" min-width="200px" max-width="200px" width="200px" align="right" alt="LOLIDOZAP">
-<h1 align="center">hello take what you need </h1></img>
+<h1 align="center"> Olá pegue o que você necessitar </h1></img>
 
   <a href="https://github.com/phikill">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=blue" alt="nice" /> </p>
 </div>
-<h1 align="left"><img src="anticon.png" width="40px"> I'm new to programming. </h1></img>
+<h1 align="left"><img src="anticon.png" width="40px"> Sou novo em programação. </h1></img>
 
 
 
@@ -45,10 +45,10 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
   *|  
   *|  
   *|  
-  * 1. I am a student  
-   * 2. I don't know much.  
-     * I want to be a game programmer.  
-     * Programming languages ​​in studies!...  
+  * 1. eu sou um iniciante 
+   * 2. Eu não sei muito. 
+     * Eu quero ser um programador de jogos  
+     * Linguagens de programação nos estudos!...  
      - [x]  JAVA  
      - [x] DOS Language  
      - [ ] C#  
@@ -71,7 +71,7 @@ simple ASCII art
     
   
   #### Future Projects.
-  # FOR POTATO PC'S
+  #  PARA POTATO PC'S
      * V PROJETOS V
      * | Build Inspencer Game Engine |
      * | Bloody Ants Z | 
