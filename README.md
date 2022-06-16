@@ -1,5 +1,5 @@
 
-  <img src="lolidozap-removebg-preview.png" min-width="200px" max-width="200px" width="200px" align="right" alt="LOLIDOZAP">
+  <img src="lolidozap-removebg-preview.png" min-width="200px" max-width="200px" width="200px" align="right" alt="reload :ERROR: reload page">
 <h1 align="center"> Olá pegue o que você necessitar </h1></img>
 
   <a href="https://github.com/phikill">
