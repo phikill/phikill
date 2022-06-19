@@ -11,11 +11,11 @@
 
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Intel"  src="https://img.shields.io/badge/Assembly-1572B6?style=for-the-badge&logo=intel&logoColor=white">
+    <img align="center" alt="Intel"  src="https://img.shields.io/badge/___process___-0000B1?style=for-the-badge&logo=intel&logoColor=white">
     <img align="center" alt="JAVA"   src="https://img.shields.io/badge/Java-%239005?style=for-the-badge&logo=java&logoColor=white">
-    <img align="center" alt="c"      src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=c&logoColor=white">
-    <img align="center" alt="cpp"    src="https://img.shields.io/badge/c++-1572B6?style=for-the-badge&logo=cplusplus&logoColor=white">
-    <img align="center" alt="csharp" src="https://img.shields.io/badge/csharp-1572B6?style=for-the-badge&logo=csharp&logoColor=white"
+    <img align="center" alt="c family"  src="https://img.shields.io/badge/c/C++_CSharp_-1592B6?style=for-the-badge&logo=&logoColor=white">
+    <img align="center" alt="OpenGl"    src="https://img.shields.io/badge/LWJGL-1572B6?style=for-the-badge&logo=opengl&logoColor=white">
+    <img align="center" alt="NVIDIA GG" src="https://img.shields.io/badge/co_graphics-0000g0?style=for-the-badge&logo=nvidia&logoColor=white"
 </div>
   
   
