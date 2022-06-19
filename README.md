@@ -3,7 +3,7 @@
 <h1 align="center"> Olá pegue o que você necessitar </h1></img>
 
   <a href="https://github.com/phikill">
-    <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=blue" alt="load :ERROR: reload page" /> </p>
+    <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red&TyanFont=3" alt="load :ERROR: reload page" /> </p>
 </div>
 <h1 align="left"><img src="anticon.png" width="40px"> Sou novo em programação. </h1></img>
 
