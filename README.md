@@ -5,7 +5,7 @@
   <a href="https://github.com/phikill">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="load :ERROR: reload page" /> </p>
 </div>
-<h1 align="left"><img src="anticon.png" width="40px"> Sou novo em programação. </h1></img>
+<h1 align="left"><img src="https://cdn.pixabay.com/photo/2021/02/12/13/43/among-us-6008615_960_720.png" width="40px"> Sou novo em programação. </h1></img>
 
 
 
