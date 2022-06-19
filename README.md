@@ -15,7 +15,7 @@
     <img align="center" alt="JAVA"   src="https://img.shields.io/badge/Java-%239005?style=for-the-badge&logo=java&logoColor=white">
     <img align="center" alt="c family"  src="https://img.shields.io/badge/c/C++_CSharp_-1592B6?style=for-the-badge&logo=&logoColor=white">
     <img align="center" alt="OpenGl"    src="https://img.shields.io/badge/LWJGL-1572B6?style=for-the-badge&logo=opengl&logoColor=white">
-    <img align="center" alt="NVIDIA GG" src="https://img.shields.io/badge/co_graphics-0000g0?style=for-the-badge&logo=nvidia&logoColor=white"
+    <img align="center" alt="NVIDIA GG" src="https://img.shields.io/badge/NV_graphics-0000g0?style=for-the-badge&logo=nvidia&logoColor=white"
 </div>
   
   
