@@ -26,15 +26,13 @@
     <img align="center" alt="NVIDIA GG" src="https://img.shields.io/badge/NV_graphics-0000g0?style=for-the-badge&logo=nvidia&logoColor=white"
          
 </div>
-  
-  
+    
 ### 
 </div> 
       <a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%239005?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/Phikill/" target="_blank"><img src="https://img.shields.io/badge/-STEAM-%23000?style=for-the-badge&logo=STEAM&logoColor=white" target="_blank"></a>
   
  [//]: [![stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight)] 
-  
   
  <img 
        align="left"
@@ -43,8 +41,6 @@ height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=phikill
        align="left"
 height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=phikill&langs_count=20&theme=dark"/>  
 
-  
-  
 </div>
   <details>
   <summary>More info!  </summary>
