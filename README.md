@@ -29,13 +29,14 @@
   
  <img 
        align="left"
-height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=phikill&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=pt-br"/>
+height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=phikill&theme=midnight-purple&hide_border=true&date_format=j%2Fn%5B%2FY%5D&locale=pt-br&border=DD2727&background=000000&stroke=DD2727&ring=FF0000&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727"/>
+
  <img 
        align="left"
-height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=phikill&langs_count=20&theme=tokyonight"/>  
+height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=phikill&langs_count=20&theme=dark"/>  
 
   
-  
+  [//]:
   
 </div>
   <details>
