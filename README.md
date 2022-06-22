@@ -1,7 +1,8 @@
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="WindowBorder"  src="https://img.shields.io/badge/⠀⠀⠀File⠀⠀⠀⠀Edit⠀⠀⠀⠀Search⠀⠀⠀⠀Run⠀⠀⠀⠀Compile⠀⠀⠀⠀Debug⠀⠀⠀⠀⠀Project⠀⠀⠀⠀Options⠀⠀⠀Window⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Help⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-0000B1?style=social&logo=&logoColor=white">
+    <img align="center" alt="WindowBorder"  src="https://img.shields.io/badge/⠀⠀⠀File⠀⠀⠀⠀Edit⠀⠀⠀⠀Search⠀⠀⠀⠀Run⠀⠀⠀⠀Compile⠀⠀⠀⠀Debug⠀⠀⠀⠀⠀Project⠀⠀⠀⠀Options⠀⠀⠀Window⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Help⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-0000B1?style=social&logo=&logoColor=white">
     <img align="center" alt="Blue"  src="https://img.shields.io/badge/||=================================================\Phikill\Readme.md===========================================||-0000B1?style=for-the-badge&logo=&logoColor=white">
+        <img align="center" alt="Blue"  src="https://img.shields.io/badge/||=================================================\Phikill\Readme.md===========================================||-0000B1?style=for-the-badge&logo=&logoColor=white">
 </div>
 
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" min-width="200px" max-width="200px" width="200px" align="right" alt="load :ERROR: reload page">
