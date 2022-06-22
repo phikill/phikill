@@ -7,6 +7,8 @@
         <img align="center" alt="Blue"  src="https://img.shields.io/badge/||⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀||-0000B1?style=for-the-badge&logo=&logoColor=white">
             <img align="center" alt="Blue"  src="https://img.shields.io/badge/||⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀||-0000B1?style=for-the-badge&logo=&logoColor=white">
             <img align="center" alt="Blue"  src="https://img.shields.io/badge/||⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Ola pegue o que necessitar⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀||-0000B1?style=for-the-badge&logo=&logoColor=white">
+                <img align="center" alt="Blue"  src="https://img.shields.io/badge/||⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀            ⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀||-0000B1?style=for-the-badge&logo=&logoColor=white">
+        <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="load :ERROR: reload page" /> </p>
 </div>
 
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" min-width="200px" max-width="200px" width="200px" align="right" alt="load :ERROR: reload page">
@@ -15,10 +17,6 @@
   <a href="https://github.com/phikill">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=red" alt="load :ERROR: reload page" /> </p>
 </div>
-<h1 align="left"><img src="https://cdn.pixabay.com/photo/2021/02/12/13/43/among-us-6008615_960_720.png" width="40px"> Sou novo em programação. </h1></img>
-
-
-
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Intel"  src="https://img.shields.io/badge/___process___-0000B1?style=for-the-badge&logo=intel&logoColor=white">
@@ -26,6 +24,7 @@
     <img align="center" alt="c family"  src="https://img.shields.io/badge/c/C++_CSharp_-1592B6?style=for-the-badge&logo=&logoColor=white">
     <img align="center" alt="OpenGl"    src="https://img.shields.io/badge/LWJGL-1572B6?style=for-the-badge&logo=opengl&logoColor=white">
     <img align="center" alt="NVIDIA GG" src="https://img.shields.io/badge/NV_graphics-0000g0?style=for-the-badge&logo=nvidia&logoColor=white"
+         
 </div>
   
   
