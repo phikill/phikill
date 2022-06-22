@@ -60,7 +60,7 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
      - [ ] Intel Assembly  
    
     
-     _______            _   _   __   _   _       _
+     _
                    
                                 ██████╗  ██╗  ██╗ ██╗ ██╗  ██╗ ██╗ ██╗     ██╗                         
                                 ██╔══██╗ ██║  ██║ ██║ ██║ ██╔╝ ██║ ██║     ██║                         
