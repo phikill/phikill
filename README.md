@@ -1,6 +1,6 @@
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="bluebar"  src="https://img.shields.io/badge/__________________________________________________________________________________________________________________________________________________________________________________________________________________________________-0000B1?style=for-the-badge&logo=&logoColor=white">
+    <img align="center" alt="bluebar"  src="https://img.shields.io/badge/⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-0000B1?style=for-the-badge&logo=&logoColor=white">
 </div>
 
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" min-width="200px" max-width="200px" width="200px" align="right" alt="load :ERROR: reload page">
