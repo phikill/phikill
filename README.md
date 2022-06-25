@@ -4,7 +4,6 @@
     <img align="center" alt="Black"  src="https://img.shields.io/badge/⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Olá , Seja Bem Vindo(A), ao meu perfil⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-%23000?style=for-the-badge&logo=&logoColor=white">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=green" alt="load :ERROR: reload page" /> </p>
     <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" min-width="200px" max-width="200px" width="100px" align="right" alt="load :ERROR: reload page">
-    <img align="right" src="https://img.shields.io/github/deployments/phikill/phikill/coder?style=for-the-badge">
 </div>
 
 </div>
