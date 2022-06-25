@@ -88,7 +88,7 @@ simple ASCII art
 
 | Projects                                                                                                                            | Status                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Build%20Inspencer-E37400?style=for-the-badge&logo=&logoColor=white" /> | https://github.com/NikuraCorp/build-inspencer-Engine |
+| <img src="https://img.shields.io/badge/Build%20Inspencer-E37400?style=for-the-badge&logo=&logoColor=white" /> | trying to fix a generic problem with DirectX4J |
 | <img src="https://img.shields.io/badge/Bloody Ants Z-FD3A5C?style=for-the-badge&logo=hant&logoColor=white" />                         | `in project`                         |
 | <img src="https://img.shields.io/badge/FB__I AM-005571?style=for-the-badge&logo=&logoColor=white" />                         | `future`                         |
 | <img src="https://img.shields.io/badge/Passnasty fantasy-3152A0?style=for-the-badge&logo=&logoColor=white" />                         | `future`                         |
