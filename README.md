@@ -6,9 +6,6 @@
     <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" min-width="200px" max-width="200px" width="150px" align="right" alt="load :ERROR: reload page">
 </div>
 
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" min-width="200px" max-width="200px" width="150px" align="right" alt="load :ERROR: reload page">
-<h1 align="center"></h1></img>
-
 </div>
 
 <div style="display: inline_block"><br>
