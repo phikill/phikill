@@ -4,6 +4,7 @@
     <img align="center" alt="Black"  src="https://img.shields.io/badge/⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Olá , Seja Bem Vindo(A), ao meu perfil⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-%23000?style=for-the-badge&logo=&logoColor=white">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=green" alt="load :ERROR: reload page" /> </p>
     <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" min-width="200px" max-width="200px" width="100px" align="right" alt="load :ERROR: reload page">
+    <img align="right" src="https://img.shields.io/github/deployments/phikill/phikill/coder?style=for-the-badge">
 </div>
 
 </div>
@@ -82,4 +83,16 @@ simple ASCII art
 </details>
   
    [//]:https://media1.giphy.com/media/OLHoXQgCVSWnfaVgXZ/giphy.gif?cid=790b7611ce304b6e091d2b9cbff0cbb2ce49419f81178279&rid=giphy.gif&ct=s
+   
+   ## 📊 Analytics [🔝](#welcome-badges-4-readmemd-profile)
+
+| Projects                                                                                                                            | Status                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Build%20Inspencer-E37400?style=for-the-badge&logo=&logoColor=white" /> | https://github.com/NikuraCorp/build-inspencer-Engine |
+| <img src="https://img.shields.io/badge/Bloody Ants Z-FD3A5C?style=for-the-badge&logo=hant&logoColor=white" />                         | `in project`                         |
+| <img src="https://img.shields.io/badge/FB__I AM-005571?style=for-the-badge&logo=&logoColor=white" />                         | `future`                         |
+| <img src="https://img.shields.io/badge/Passnasty fantasy-3152A0?style=for-the-badge&logo=&logoColor=white" />                         | `future`                         |
+| <img src="https://img.shields.io/badge/MAY JX-E97627?style=for-the-badge&logo=&logoColor=white" />                       | `in project`                       |
+| <img src="https://img.shields.io/badge/Under Grid lvl Maker-000000?style=for-the-badge&logo=WakaTime&logoColor=white" />                     | `together with BIGE`                     |
+
   
