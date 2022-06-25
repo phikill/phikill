@@ -84,7 +84,7 @@ simple ASCII art
   
    [//]:https://media1.giphy.com/media/OLHoXQgCVSWnfaVgXZ/giphy.gif?cid=790b7611ce304b6e091d2b9cbff0cbb2ce49419f81178279&rid=giphy.gif&ct=s
    
-   ## 📊 Analytics [🔝](#welcome-badges-4-readmemd-profile)
+   ## Projects
 
 | Projects                                                                                                                            | Status                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
