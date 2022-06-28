@@ -1,6 +1,7 @@
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Say"  src="https://img.shields.io/badge/P H I K I L L%20-⠀⠀⠀⠀Atualmente Focado em solucionar um Problema⠀⠀⠀⠀⠀⠀⠀⠀⠀-000000?style=social">
+    <img align="center" alt="Say2" src="https://img.shields.io/badge/Qual problema ⁇%20- trying to fix a generic problem with DirectX4J - 000000?&style=social">
     <img align="center" alt="Black"  src="https://img.shields.io/badge/⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Olá , Seja Bem Vindo(A), ao meu perfil⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-%23000?style=for-the-badge&logo=&logoColor=white">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=green" alt="load :ERROR: reload page" /> </p>
     <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" min-width="200px" max-width="200px" width="100px" align="right" alt="load :ERROR: reload page">
@@ -83,11 +84,5 @@ simple ASCII art
   
    [//]:https://media1.giphy.com/media/OLHoXQgCVSWnfaVgXZ/giphy.gif?cid=790b7611ce304b6e091d2b9cbff0cbb2ce49419f81178279&rid=giphy.gif&ct=s
    
-   ## Projects
-
-| Projects                                                                                                                            | Status                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Build%20Inspencer-E37400?style=for-the-badge&logo=&logoColor=white" /> | `trying to fix a generic problem with DirectX4J` |
-| <img src="https://img.shields.io/badge/Under Grid lvl Maker-000000?style=for-the-badge&logo=WakaTime&logoColor=white" />                     | `together with BIGE`                     |
 
   
