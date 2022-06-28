@@ -52,8 +52,6 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
      - [x] DOS Language  
      - [ ] C#  
      - [ ] C/C++  
-     - [ ] Intel Assembly  
-   
     
      _
                    
@@ -69,8 +67,8 @@ simple ASCII art
     
     
   
-  #### Future Projects.
-  #  PARA POTATO PC'S
+  #### Projetos em Mente.
+  #  Para Computadores Fracos
      * V PROJETOS V
      * | Build Inspencer Game Engine |
      * | Bloody Ants Z | 
