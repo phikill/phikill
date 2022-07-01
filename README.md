@@ -1,7 +1,7 @@
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Say"  src="https://img.shields.io/badge/P H I K I L L%20-⠀⠀⠀⠀Atualmente Focado em solucionar um Problema⠀⠀⠀⠀⠀⠀⠀⠀⠀-000000?style=social">
-    <img align="center" alt="Say2" src="https://img.shields.io/badge/Qual o problema ⁇%20- um problema generico como DirectX4j : Failed to create D3D device - 000000?&style=social">
+    <img align="center" alt="Say2" src="https://img.shields.io/badge/Qual o problema ⁇%20- um problema generico como DirectX4j : Failed to create device: invalid call- 000000?&style=social">
     <img align="center" alt="Black"  src="https://img.shields.io/badge/⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Olá , Seja Bem Vindo(A), ao meu perfil⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-%23000?style=for-the-badge&logo=&logoColor=white">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=green" alt="load :ERROR: reload page" /> </p>
     <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" min-width="200px" max-width="200px" width="100px" align="right" alt="load :ERROR: reload page">
