@@ -19,7 +19,7 @@
 
 | Programming Languages | 
 |--|
-|<img align="center" alt="JAVA"   src="https://img.shields.io/badge/Java-%239005?style=for-the-badge&logo=java&logoColor=white"><img align="center" alt="c family"  src="https://img.shields.io/badge/c/C++/C♯ _-1592B6?style=for-the-badge&logo=&logoColor=white"> |
+|<img align="center" alt="JAVA"   src="https://img.shields.io/badge/Java-%239009?style=for-the-badge&logo=java&logoColor=white"><img align="center" alt="c family"  src="https://img.shields.io/badge/c/C++/C♯ _-1592B6?style=for-the-badge&logo=&logoColor=white"> |
    
 ### 
 </div> 
