@@ -17,9 +17,9 @@
 | RAM | <img src="https://img.shields.io/badge/⠀-6 GB%20%20-000000?style=for-the-badge"/> | DDR3⠀⠀⠀⠀2 modules⠀|
 | DSK | HITACHI HTS545050A7E680 | 500 GB⠀⠀⠀⠀⠀5400 RPM|
 
-| Programming Languages | 
-|--|
-|<img align="center" alt="JAVA"   src="https://img.shields.io/badge/Java-%239009?style=for-the-badge&logo=java&logoColor=white"><img align="center" alt="c family"  src="https://img.shields.io/badge/c/C++/C♯ _-1592B6?style=for-the-badge&logo=&logoColor=white"> |
+  | Programming Languages | 
+  |--|
+  |<img align="center" alt="JAVA"   src="https://img.shields.io/badge/Java-%239009?style=for-the-badge&logo=java&logoColor=white"><img align="center" alt="c family"  src="https://img.shields.io/badge/c/C++/C♯ _-1592B6?style=for-the-badge&logo=&logoColor=white"> |
    
 ### 
 </div> 
