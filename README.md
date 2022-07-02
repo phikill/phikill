@@ -23,8 +23,8 @@
    
 ### 
 </div> 
-      ____________________<a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%239005?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> ⠀
-  <a href="https://steamcommunity.com/id/Phikill/" target="_blank"><img src="https://img.shields.io/badge/-STEAM-%23000?style=for-the-badge&logo=STEAM&logoColor=white" target="_blank"></a> ______________________
+____________________<a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%239005?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> ⠀
+  <a href="https://steamcommunity.com/id/Phikill/" target="_blank"><img src="https://img.shields.io/badge/-STEAM-%23000?style=for-the-badge&logo=STEAM&logoColor=white" target="_blank"></a> __________________________
   
  [//]: [![stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight)] 
   
