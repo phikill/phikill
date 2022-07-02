@@ -11,22 +11,20 @@
 
 |                                  |                        |   specs    |
 | -------------------------------- | ---------------------- |------------|
-| CPU | <img src="https://img.shields.io/badge/I5_4210u-0008B9?style=for-the-badge&logo=intel&logoColor=white"/> | 1.70 GHZ/2.01 GHZ |
-| GPU | <img src="https://img.shields.io/badge/Geforce 830m-0000g0?style=for-the-badge&logo=nvidia&logoColor=white"/>| 1082 MHz/1150 MHz turbo|
-|  OS | <img src="https://img.shields.io/badge/WIndows%2011%20Home-1572B6?style=for-the-badge&logo=windows&logoColor=white"/> | X64 |
-| RAM | <img src="https://img.shields.io/badge/RAM-6 GB%20%20-000000?style=for-the-badge"/> | DDR3/2 modules|
-| DSK | <img src="https://img.shields.io/badge/HITACHI HTS545050A7E680 GB%20%20-000000?style=for-the-badge"/> | 500 GB/5400 RPM|
+| CPU | <img src="https://img.shields.io/badge/I5_4210u-0008B9?style=for-the-badge&logo=intel&logoColor=white"/> | 1.70 GHZ⠀/⠀2.01 GHZ |
+| GPU | <img src="https://img.shields.io/badge/Geforce 830m-0000g0?style=for-the-badge&logo=nvidia&logoColor=white"/>| 1082 MHz⠀/⠀1150 MHz turbo|
+|  OS | <img src="https://img.shields.io/badge/WIndows%2011%20Home-1572B6?style=for-the-badge&logo=windows&logoColor=white"/> |⠀X64⠀|
+| RAM | <img src="https://img.shields.io/badge/⠀-6 GB%20%20-000000?style=for-the-badge"/> | DDR3⠀⠀⠀⠀2 modules⠀|
+| DSK | HITACHI HTS545050A7E680 | 500 GB⠀⠀⠀⠀⠀5400 RPM|
 
-
-<div name="inline_block"><br>
-    <img align="center" alt="JAVA"   src="https://img.shields.io/badge/Java-%239005?style=for-the-badge&logo=java&logoColor=white">
-    <img align="center" alt="c family"  src="https://img.shields.io/badge/c/C++/C♯ _-1592B6?style=for-the-badge&logo=&logoColor=white">  
-</div>
-    
+| Programming Languages | 
+|--|
+|<img align="center" alt="JAVA"   src="https://img.shields.io/badge/Java-%239005?style=for-the-badge&logo=java&logoColor=white"><img align="center" alt="c family"  src="https://img.shields.io/badge/c/C++/C♯ _-1592B6?style=for-the-badge&logo=&logoColor=white"> |
+   
 ### 
 </div> 
-      <a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%239005?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/Phikill/" target="_blank"><img src="https://img.shields.io/badge/-STEAM-%23000?style=for-the-badge&logo=STEAM&logoColor=white" target="_blank"></a>
+      My Bankrupt Channel<a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%239005?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> ⠀
+  <a href="https://steamcommunity.com/id/Phikill/" target="_blank"><img src="https://img.shields.io/badge/-STEAM-%23000?style=for-the-badge&logo=STEAM&logoColor=white" target="_blank"></a> My Steam Profile
   
  [//]: [![stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight)] 
   
