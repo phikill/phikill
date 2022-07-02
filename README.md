@@ -9,8 +9,8 @@
 
 </div>
 
-|                                  |                        |   specs    |
-| -------------------------------- | ---------------------- |------------|
+| | |   specs    |
+|-|-|-|
 | CPU | <img src="https://img.shields.io/badge/I5_4210u-0008B9?style=for-the-badge&logo=intel&logoColor=white"/> | 1.70 GHZ⠀/⠀2.70 GHZ turbo |
 | GPU | <img src="https://img.shields.io/badge/Geforce 830m-0000g0?style=for-the-badge&logo=nvidia&logoColor=white"/>| 1082 MHz⠀/⠀1150 MHz turbo|
 |  OS | <img src="https://img.shields.io/badge/WIndows%2011%20Home-1572B6?style=for-the-badge&logo=windows&logoColor=white"/> |⠀X64⠀|
