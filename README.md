@@ -15,7 +15,7 @@
 | GPU | <img src="https://img.shields.io/badge/Geforce 830m-0000g0?style=for-the-badge&logo=nvidia&logoColor=white"/>| 1082 MHz/1150 MHz turbo|
 |  OS | <img src="https://img.shields.io/badge/WIndows%2011%20Home-1572B6?style=for-the-badge&logo=windows&logoColor=white"/> | X64 |
 | RAM | <img src="https://img.shields.io/badge/RAM-6 GB%20%20-000000?style=for-the-badge"/> | DDR3/2 modules|
-| DSK | <img src="https://img.shields.io/badge/RAM-6 GB%20%20-000000?style=for-the-badge"/> | DDR3/2 modules|
+| DSK | <img src="https://img.shields.io/badge/HITACHI HTS545050A7E680 GB%20%20-000000?style=for-the-badge"/> | 500 GB/5400 RPM|
 
 
 <div name="inline_block"><br>
