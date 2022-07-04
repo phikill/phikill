@@ -30,7 +30,7 @@ ______________________<a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_E
   
  <img 
        align="left"
-height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=phikill&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br&background=322E666E&border=DDD9D4&stroke=FF0000&ring=D20000D7&fire=FF00D4&currStreakNum=FFFFFF&sideNums=DCDDD4&currStreakLabel=B32929&sideLabels=9A2CC2&dates=DDDDDD"/>
+height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=phikill&date_format=j%20M%5B%20Y%5D&locale=pt-br&background=00000000&border=DD0000&stroke=0B0052&ring=636BDD&fire=DD0007&currStreakNum=E60000&sideNums=DD5461&currStreakLabel=7B7B7B&sideLabels=7B7B7B&dates=DD0000"/>
  <img 
        align="left"
 height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=phikill&langs_count=20&theme=radical"/>  
