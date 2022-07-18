@@ -50,6 +50,11 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
      - [x] DOS Language  
      - [ ] C#  
      - [ ] C/C++  
+     - [ ] glsl
+     - [ ] hlsl
+     - [ ] lua
+     - [ ] angelscript
+     - [ ] gscript
     
      _
                    
@@ -66,13 +71,10 @@ simple ASCII art
     
   
   #### Projetos em Mente.
-  #  Para Computadores Fracos
      * V PROJETOS V
      * | Build Inspencer Game Engine |
      * | Bloody Ants Z | 
-     * | FB-I AM |
      * | Passnasty fantasy |
-     * |  MAY JX   JAVA OS |
  ----
     
   [BUILD INSPENCER](https://github.com/NikuraCorp/build-inspencer-Engine)
