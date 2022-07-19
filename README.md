@@ -45,7 +45,7 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
   * 1. eu sou um iniciante 
    * 2. Eu não sei muito. 
      * Eu quero ser um programador de jogos  
-     * Linguagens de programação nos estudos!...  
+     * Linguagens de programação em estudos!...  
      - [x]  JAVA  
      - [x] DOS Language  
      - [ ] C#  
@@ -55,6 +55,8 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
      - [ ] lua
      - [ ] angelscript
      - [ ] gscript
+     - [ ] javascript
+     - [ ] python
     
      _
                    
