@@ -8,7 +8,7 @@
 
 </div>
 
-| my pc| HP Pavilion 14-v064br|     |
+| my pc| HP Pavilion 14-v064br| LAPTOP    |
 |-|-|-|
 | CPU | I5 4210u | 1.70 GHZ⠀ |
 | GPU | Geforce 830m| 1082 MHz⠀|
