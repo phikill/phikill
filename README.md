@@ -5,9 +5,9 @@
     <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" min-width="200px" max-width="200px" width="150px" align="right" alt="load :ERROR: reload page">
    
 </div>
-
-</div>
 2014
+</div>
+
 | my pc| HP Pavilion 14-v064br| LAPTOP    |
 |-|-|-|
 | CPU | I5 4210u | 1.70 GHZ⠀ |
