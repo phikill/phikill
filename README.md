@@ -74,7 +74,7 @@ simple ASCII art
   
   #### Projetos em Mente.
      * V PROJETOS V
-     * | Konix Game Engine |
+     * | Kohix Game Engine |
      * | Bloody Ants Z | 
      * | Passnasty fantasy |
  ----
