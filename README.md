@@ -74,7 +74,7 @@ simple ASCII art
   
   #### Projetos em Mente.
      * V PROJETOS V
-     * | Build Inspencer Game Engine |
+     * | Konix Game Engine |
      * | Bloody Ants Z | 
      * | Passnasty fantasy |
  ----
