@@ -16,10 +16,12 @@
 | RAM | 6 GB | DDR3⠀⠀⠀|
 | DSK | HITACHI HTS545050A7E680 | 500 GB⠀|
 
-  | Programming Languages | 
-  |--|
-  |JAVA ⠀⠀⠀⠀& ⠀⠀⠀C/C++/C# |
-   
+  | Programming Languages |per |
+  |-|-|
+  |JAVA ⠀|30%|
+  |C/C++/C# |5%|
+  |hlsl⠀|1%|
+  |glsl |1%|
 ### 
 </div> 
 ______________________<a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%239005?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> ⠀
