@@ -1,6 +1,6 @@
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Black"  src="https://img.shields.io/badge/⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀=============Г  Welcome⠀L============= ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-%23000?style=for-the-badge&logo=&logoColor=white">
+    <img align="center" alt="Black"  src="https://img.shields.io/badge/⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Г Welcome⠀⅃ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-%23000?style=for-the-badge&logo=&logoColor=white">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=phikill&color=green" alt="load :ERROR: reload page" /> </p>
     <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" min-width="200px" max-width="200px" width="150px" align="right" alt="load :ERROR: reload page">
    
@@ -16,12 +16,12 @@
 | RAM | 6 GB | DDR3⠀⠀⠀|
 | DSK | HITACHI HTS545050A7E680 | 500 GB⠀|
 
-  | Programming Languages |per |
+  | pos | ```favorite``` c/c++ compilers |
   |-|-|
-  |⠀⠀⠀⠀⠀⠀⠀JAVA ⠀|30%|
-  |⠀⠀⠀⠀⠀⠀⠀C/C++ |5%|
-  |⠀⠀⠀⠀⠀⠀⠀hlsl⠀|1%|
-  |⠀⠀⠀⠀⠀⠀⠀glsl |1%|
+  |⠀1°⠀| Open Watcom |
+  |⠀2° | Clang |
+  | 3° | Cl |
+  | 4° | GCC|
 ### 
 </div> 
 ______________________<a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%239005?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> ⠀
@@ -38,22 +38,21 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
 
 </div>
   <details>
-  <summary>More info!  </summary>
+   <summary> More info!  </summary> 
 
    # Info.  
-  *|  
-  *|  
-  *|  
-  * 1. eu sou um iniciante 
-   * 2. Eu não sei muito. 
-     * Eu quero ser um programador de jogos  
-     * Linguagens de programação em estudos!...  
-     - [x]  JAVA  
+  * |  
+  * | 
+  * | 
+  * > 1. I am beginner  
+  * > i love interactive programs  
+     * Programming languages ​​in study!...  
+     - [ ]  JAVA  
      - [x] DOS Language  
      - [ ] C#  
-     - [ ] C/C++  
-     - [ ] glsl
-     - [ ] hlsl
+     - [x] C/C++  
+     - [x] glsl
+     - [x] hlsl
      - [ ] lua
      - [ ] angelscript
      - [ ] gscript
@@ -77,7 +76,7 @@ simple ASCII art
   #### Projetos em Mente.
      * V PROJETOS V
      * | Kohix Game Engine |
-     * | Bloody Ants Z | 
+     * | Bloody AntZ | 
      * | Passnasty fantasy |
  ----
     
