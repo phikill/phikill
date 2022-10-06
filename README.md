@@ -31,7 +31,7 @@ ______________________<a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_E
   
  <img 
        align="left"
-height="200em" src="https://streak-stats.demolab.com?user=phikill&border_radius=0.1&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&background=0000005A&border=3DDD3D&stroke=25DD25&ring=DDDDDD&fire=16A400&currStreakNum=C6DDAC&sideNums=FFFFFF&currStreakLabel=50DD25&sideLabels=DDDDDD&dates=94DD7E"/>
+height="200em" src="https://streak-stats.demolab.com?user=phikill&border_radius=0.1&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&background=0000005A&border=3DDD3D&stroke=3DDD3D&ring=DDDDDD&fire=3DDD3D&currStreakNum=DDDDDD&sideNums=FFFFFF&currStreakLabel=3DDD3D&sideLabels=DDDDDD&dates=94DD7E"/>
  <img 
        align="left"
 height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=phikill&langs_count=20&theme=radical"/>  
