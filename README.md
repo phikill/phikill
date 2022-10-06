@@ -20,7 +20,7 @@
   |-|-|
   |⠀1°⠀| Open Watcom |
   |⠀2° | Clang |
-  | 3° | Cl |
+  | 3° | CL |
   | 4° | GCC|
 ### 
 </div> 
