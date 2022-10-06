@@ -36,9 +36,11 @@ height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=phikill
        align="left"
 height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=phikill&langs_count=20&theme=radical"/>  
 
+  More INfo ?  
+ ``` ↓ Click Here ↓ ```
 </div>
   <details>
-   <summary> More info!  </summary> 
+   <summary> Button!  </summary> 
 
    # Info.  
   * |  
