@@ -16,12 +16,12 @@
 | RAM | 6 GB | DDR3⠀⠀⠀|
 | DSK | HITACHI HTS545050A7E680 | 500 GB⠀|
 
-  | pos | ```favorite``` c/c++ compilers |
-  |-|-|
-  |⠀1°⠀| Open Watcom |
-  |⠀2° | Clang |
-  | 3° | CL |
-  | 4° | GCC|
+  | pos | ```favorite``` c/c++ compilers | pos |    ```favorite``` Text Editor
+  |-|-|-|-|                                                     
+  |⠀1°⠀| Open Watcom                     |⠀1°⠀| ⠀ Sublime Text 
+  |⠀2° | Clang                           |⠀2°⠀|⠀Windows NotePad  
+  |⠀3° | CL |
+  |⠀4° | GCC|
 ### 
 </div> 
 ______________________<a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%239005?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> ⠀
