@@ -83,7 +83,7 @@ simple ASCII art
      * | Passnasty fantasy |
  ----
     
-  [Kohix simple Game Engine](https://github.com/NikuraCorp/kohix)
+  [Kohyx simple Game Engine](https://github.com/NikuraCorp/kohyx)
 </details>
   
    [//]:https://media1.giphy.com/media/OLHoXQgCVSWnfaVgXZ/giphy.gif?cid=790b7611ce304b6e091d2b9cbff0cbb2ce49419f81178279&rid=giphy.gif&ct=s
