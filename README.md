@@ -78,12 +78,12 @@ simple ASCII art
   
   #### Projetos em Mente.
      * V PROJETOS V
-     * | Kohix Game Engine |
+     * | Prosperit Game Engine |
      * | Bloody AntZ | 
      * | Passnasty fantasy |
  ----
     
-  [Kohyx simple Game Engine](https://github.com/NikuraCorp/kohyx)
+  [Prosperit simple Game Engine](https://github.com/NikuraCorp/prosperit)
 </details>
   
    [//]:https://media1.giphy.com/media/OLHoXQgCVSWnfaVgXZ/giphy.gif?cid=790b7611ce304b6e091d2b9cbff0cbb2ce49419f81178279&rid=giphy.gif&ct=s
