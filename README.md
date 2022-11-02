@@ -5,16 +5,16 @@
     <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" min-width="200px" max-width="200px" width="150px" align="right" alt="load :ERROR: reload page">
    
 </div>
-2014
+2015
 </div>
 
 | my pc| HP Pavilion 14-v064br| LAPTOP    |
 |-|-|-|
-| CPU | I5 4210u | 1.70 GHZ⠀ |
-| GPU | Geforce 830m| 1082 MHz⠀|
-|  OS | WIndows 11 Home |⠀X64⠀|
-| RAM | 6 GB | DDR3⠀⠀⠀|
-| DSK | HITACHI HTS545050A7E680 | 500 GB⠀|
+| CPU | i3 6100 | 3.70 GHZ⠀ |
+| GPU/IG | HD Graphics 530| base⠀|
+|  OS | WIndows 10 pro |⠀X64⠀|
+| RAM | 4 GB | DDR3⠀1 channel⠀⠀|
+| DSK | Seagate  | 1000 GB⠀|
 
   | pos | ```favorite``` c/c++ compilers | pos |    ```favorite``` Text Editor
   |-|-|-|-|                                                     
