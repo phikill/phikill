@@ -8,19 +8,19 @@
 2015
 </div>
 
-| my pc| HP Pavilion 14-v064br| LAPTOP    |
+| my pc| Dell Optiplex 3040 |Compact Pc |
 |-|-|-|
 | CPU | i3 6100 | 3.70 GHZ⠀ |
-| GPU/IG | HD Graphics 530| base⠀|
-|  OS | WIndows 10 pro |⠀X64⠀|
-| RAM | 4 GB | DDR3⠀1 channel⠀⠀|
-| DSK | Seagate  | 1000 GB⠀|
+| GPU/IG | HD Graphics 530  | base⠀|
+|  OS | WIndows 10 pro      |⠀X64⠀|
+| RAM | 4 GB                | DDR3⠀Single Channel⠀⠀|
+| DSK | Seagate             | 1000 GB⠀|
 
-  | pos | ```favorite``` c/c++ compilers | pos |    ```favorite``` Text Editor
+  | :hammer_and_wrench: | ```favorite``` c/c++ compilers | :memo: |    ```favorite``` Text Editor
   |-|-|-|-|                                                     
-  |⠀1°⠀| Open Watcom                     |⠀1°⠀| ⠀ Sublime Text 
-  |⠀2° | Clang                           |⠀2°⠀|⠀Windows NotePad  
-  |⠀3° | CL |
+  |⠀1°⠀| Open Watcom                     |⠀1°⠀| ⠀ Watcom Text Editor  
+  |⠀2° | Clang                           |⠀2°⠀|⠀⠀Sublime Text  
+  |⠀3° | CL                              |⠀3° |⠀⠀Windows NotePad... 
   |⠀4° | GCC|
 ### 
 </div> 
