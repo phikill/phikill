@@ -54,8 +54,8 @@ height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?sh
      - [x] DOS Language  
      - [ ] C#  
      - [x] C/C++  
-     - [x] glsl
-     - [x] hlsl
+     - [ ] glsl
+     - [ ] hlsl
      - [ ] lua
      - [ ] angelscript
      - [ ] gscript
