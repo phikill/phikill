@@ -4,7 +4,6 @@
     <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" min-width="200px" max-width="200px" width="150px" align="right" alt="load :ERROR: reload page">
    
 </div>
-2015
 </div>
 
 | my pc| Dell Optiplex 3040 |Compact Pc |
@@ -28,12 +27,6 @@ ______________________<a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_E
   
  [//]: [![stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=phikill&theme=tokyonight)] 
   
- <img 
-       align="left"
-height="200em" src="https://streak-stats.demolab.com?user=phikill&border_radius=0.1&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&background=0000005A&border=3DDD3D&stroke=3DDD3D&ring=DDDDDD&fire=3DDD3D&currStreakNum=DDDDDD&sideNums=FFFFFF&currStreakLabel=3DDD3D&sideLabels=DDDDDD&dates=94DD7E"/>
- <img 
-       align="left"
-height="200em" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=phikill&langs_count=20&bg_color=4F4F4F&title_color=32CD32&text_color=FFFFF0&border_color=7CFC00&icon_color=32CD32"/>  
 
 
   More Info ?  
