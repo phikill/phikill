@@ -17,9 +17,9 @@
   | :hammer_and_wrench: | ```favorite``` c/c++ compilers | :memo: |    ```favorite``` Text Editor
   |-|-|-|-|                                                     
   |⠀1°⠀| <img src="https://styles.redditmedia.com/t5_30f0f/styles/communityIcon_kekogvre5yy41.png" width="40" height="40" /> Open Watcom                     |⠀1°⠀| ⠀ Watcom Text Editor  
-  |⠀2° | Clang                           |⠀2°⠀|⠀⠀Sublime Text  
-  |⠀3° | CL                              |⠀3° |⠀⠀Windows NotePad... 
-  |⠀4° | GCC|
+  |⠀2° | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqD_rzFhOS38Q3PekG_cjCw_GI4P8XoCW0APaJOtavnepe79KWGOa6qPshkCA9Bbpiqmc&usqp=CAU" width="40" height="40" /> Clang                           |⠀2°⠀|⠀⠀Sublime Text  
+  |⠀3° | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" width="40" height="40" /> CL                              |⠀3° |⠀⠀Windows NotePad... 
+  |⠀4° | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GNU_Compiler_Collection_logo.svg/1200px-GNU_Compiler_Collection_logo.svg.png" width="40" height="40" /> GCC|
 ### 
 </div> 
 ______________________<a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_ENMR0pvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%239005?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> ⠀
