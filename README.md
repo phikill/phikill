@@ -16,7 +16,7 @@
 
   | :hammer_and_wrench: | ```favorite``` c/c++ compilers | :memo: |    ```favorite``` Text Editor
   |-|-|-|-|                                                     
-  |⠀1°⠀| Open Watcom                     |⠀1°⠀| ⠀ Watcom Text Editor  
+  |⠀1°⠀| <img src="https://styles.redditmedia.com/t5_30f0f/styles/communityIcon_kekogvre5yy41.png" width="40" height="40" /> Open Watcom                     |⠀1°⠀| ⠀ Watcom Text Editor  
   |⠀2° | Clang                           |⠀2°⠀|⠀⠀Sublime Text  
   |⠀3° | CL                              |⠀3° |⠀⠀Windows NotePad... 
   |⠀4° | GCC|
