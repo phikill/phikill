@@ -78,7 +78,7 @@ simple ASCII art
   
   #### Projetos em Mente.
      * V PROJETOS V
-     * | Prosperit Game Engine |
+     * | LEFA Game Engine |
      * | Bloody AntZ | 
      * | Passnasty fantasy |
  ----
