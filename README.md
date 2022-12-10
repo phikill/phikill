@@ -38,19 +38,25 @@ ______________________<a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_E
    # Info.  
   * > 1. I am beginner  
   * > i love interactive programs  
-     * Programming languages ​​in study!...  
-     - [ ]  JAVA  
-     - [x] Windows Terminal Code  
+     > Programming languages ​​in study!...  
+    
+    
+     - [x]  JAVA    
      - [ ] Linux  Terminal  Code  
      - [ ] C#  
      - [x] C/C++  
      - [ ] glsl
-     - [ ] hlsl
-     - [ ] lua
-     - [ ] javascript
-     - [ ] python
+     - [ ] hlsl   
     
-     _
+     > Programing Languages ​​Stoped Work  
+    
+    
+     - [ ] python  
+     - [ ] lua  
+     - [ ] javascript  
+     - [ ] Windows Terminal Code  
+    
+    # ASCII Art
                    
                                 ██████╗  ██╗  ██╗ ██╗ ██╗  ██╗ ██╗ ██╗     ██╗                         
                                 ██╔══██╗ ██║  ██║ ██║ ██║ ██╔╝ ██║ ██║     ██║                         
@@ -59,7 +65,6 @@ ______________________<a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_E
                                 ██║      ██║  ██║ ██║ ██║  ██╗ ██║ ███████╗███████╗             
                                 ╚═╝      ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═╝ ╚═╝ ╚══════╝╚══════╝           
   
-simple ASCII art
 ============   
     
     
