@@ -11,7 +11,7 @@
 |-|-|-|
 | CPU | i3 6100 | 3.70 GHZ⠀ |
 | GPU/IG | HD Graphics 530  | base⠀|
-|  OS | WIndows 10 pro      |⠀X64⠀|
+|  OS | WIndows 11 home LITE      |⠀X64⠀|
 | RAM | 4 GB                | DDR3⠀Single Channel⠀⠀|
 | DSK | Seagate             | 1000 GB⠀|
 
