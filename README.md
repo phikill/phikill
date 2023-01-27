@@ -13,7 +13,7 @@
 | GPU/IG | HD Graphics 530  | base⠀|
 |  OS | WIndows 11 home LITE      |⠀X64⠀|
 | RAM | 4 GB                | DDR3L⠀Single Channel⠀⠀|
-| DSK | Seagate             | 1-TB 7200-rpm⠀|
+| DSK | Seagate             | 1-TB⠀|
 
   | :hammer_and_wrench: | ```favorite``` c/c++ compilers | :memo: |    ```favorite``` Text Editor
   |-|-|-|-|                                                     
