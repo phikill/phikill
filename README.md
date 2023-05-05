@@ -45,16 +45,16 @@ ______________________<a href="https://www.youtube.com/channel/UCtckcybjk1hnbk_E
      - [ ] Linux  Terminal  Code  
      - [ ] C#  
      - [x] C/C++  
-     - [ ] glsl
+     - [x] glsl
      - [ ] hlsl   
+     - [x] Windows Batch
     
      > Programing Languages ​​Stoped Work  
     
     
      - [ ] python  
      - [ ] lua  
-     - [ ] javascript  
-     - [ ] Windows Terminal Code  
+     - [ ] javascript    
     
     # ASCII Art
                    
