@@ -1,7 +1,7 @@
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Black"  src="https://img.shields.io/badge/⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Г Welcome⠀⅃ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-%23000?style=for-the-badge&logo=&logoColor=white">
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" min-width="200px" max-width="200px" width="150px" align="right" alt="load :ERROR: reload page">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" min-width="200px" max-width="200px" width="150px" align="right" alt="load :ERROR: reload page">
    
 </div>
 
