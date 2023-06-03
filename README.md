@@ -7,19 +7,14 @@
 
 </div>
 
-| my pc| Dell Optiplex 3040 |Compact Pc |
+| my pc| Dell Optiplex 3040 |Tower Pc |
 |-|-|-|
 | CPU | i3 6100 | 3.70 GHZ⠀ |
 | GPU/IG | HD Graphics 530  | base⠀|
 |  OS | WIndows 11 home LITE      |⠀X64⠀|
-| RAM | 4 GB                | DDR3L⠀Single Channel⠀⠀|
+| RAM | 12 GB                | DDR3L⠀Dual Channel⠀⠀|
 | DSK | Seagate             | 1-TB / 7200 RPM⠀|
 
-  | :hammer_and_wrench: | ```favorite``` c/c++ compilers | :memo: |    ```favorite``` Text Editor
-  |-|-|-|-|                                                     
-  |⠀1°⠀| <img src="https://styles.redditmedia.com/t5_30f0f/styles/communityIcon_kekogvre5yy41.png" width="40" height="40" /> Open Watcom                     |⠀2°⠀|<img src="https://cdn.iconscout.com/icon/free/png-256/sublime-text-3629686-3031154.png" width="40" height="40" />⠀ Sublime Text  
-  |⠀2° | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqD_rzFhOS38Q3PekG_cjCw_GI4P8XoCW0APaJOtavnepe79KWGOa6qPshkCA9Bbpiqmc&usqp=CAU" width="40" height="40" /> Clang                           |⠀1°⠀|<img src="https://styles.redditmedia.com/t5_30f0f/styles/communityIcon_kekogvre5yy41.png" width="40" height="40" /> Watcom Text Editor  
-  |⠀3° | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" width="40" height="40" /> MSVC                              |⠀3° | <img src="https://static.wikia.nocookie.net/logopedia/images/c/c4/Notepad_Vista_10.png" width="40" height="40" /> ⠀Windows NotePad... 
 
 ### 
 </div> 
