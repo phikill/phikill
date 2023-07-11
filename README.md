@@ -9,7 +9,7 @@
 
 | my pc| Dell Optiplex 3040 |Tower Pc |
 |-|-|-|
-| CPU | i7 6700 | 4.00 GHZ⠀ |
+| CPU | i7 6700 | 3.40 GHZ⠀ |
 | GPU/IG | HD Graphics 530  | base⠀|
 |  OS | WIndows 11 home LITE      |⠀X64⠀|
 | RAM | 16 GB                | DDR3L⠀Dual Channel⠀⠀|
