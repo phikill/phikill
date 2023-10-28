@@ -9,10 +9,11 @@
 | my pc| Dell Optiplex 3040 |Tower Pc |
 |-|-|-|
 | CPU | i7 6700 | 3.40 GHZ⠀ |
-| GPU/IG | HD Graphics 530  | base⠀|
-|  OS | WIndows 11 home LITE      |⠀X64⠀|
-| RAM | 16 GB                | DDR3L⠀Dual Channel⠀⠀|
-| DSK | Seagate             | 1-TB / 7200 RPM⠀|
+| GPU/IG | Intel Graphics 530  | no powerclock⠀|
+| OS 1 | Linux Mint Cinnamon      |⠀X64⠀|
+| OS 2 | WIndows 11 home LITE      |⠀X64⠀|
+| RAM | 16 GB                | DDR3L⠀DC⠀⠀|
+| DSK | 1TB  7200 RPM           | SEAGATE⠀|
 
 
   
