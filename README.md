@@ -11,22 +11,11 @@ I'm developing a game engine with the focus on weaker computers, it's currently 
 the engine is currently being developed for 2 operating systems, such as Windows and LINUX, in the future I will extend this to BSD, Android and some Unix-based systems.  
 the engine supports ``i686`` processors for now, but in the future I will implement it for ``ARM`` , ``AMD64`` too  .
 
-LEFA compatibility information.  
 
-<p align="left">
-click on the images  
-  <a href="link_for_windows_os_doc">
-    <img src="https://cdn.icon-icons.com/icons2/5/PNG/256/windows_284.png" alt="windows_ico" width="50" height="50">
-  </a>
-OR 
-  <a href="link_for_linux_os_doc">
-    <img src="https://icons.iconarchive.com/icons/kearone/comicons/128/linux-icon.png" alt="linux_ico" width="50" height="50">
-  </a>
-</p>
 
 I really like the C language, specifically the ANSI C 89 standard, it is well supported by several compilers and very easy to read and identify, what about C++? I don't like .
 
-
+[MY GAME ENGINE](https://github.com/SILDTeam/LEFA-GE)
 
 
 
@@ -48,12 +37,9 @@ I really like the C language, specifically the ANSI C 89 standard, it is well su
 
 </details>
 
-
-  More Info ?  
- ```Click  ↓```
 </div>
   <details>
-   <summary> Button!  </summary> 
+   <summary> More Info  </summary> 
 
   
     # ASCII Art
