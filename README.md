@@ -26,14 +26,16 @@ I really like the C language, specifically the ANSI C 89 standard, it is well su
 <div style="display: inline_block"><br>
     <img align="center" alt="Black"  src="https://img.shields.io/badge/⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Г DELL ⅃ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-%23000?style=for-the-badge&logo=&logoColor=white">
         
-| my pc| Dell Optiplex 3040 |Tower Pc |
+| my pc| Specs |  |
 |-|-|-|
+|DELL | Optiplex 3040 |  SFF |
 | CPU | i7 6700 | 3.40 GHZ⠀ |
-| GPU/IG | Intel Graphics 530  | no powerclock⠀|
+| GPU | NVIDIA GTX 1060 3GB  | EVGA⠀|
 | OS 1 | Linux Mint Cinnamon      |⠀X64⠀|
 | OS 2 | WIndows 11 home LITE      |⠀X64⠀|
 | RAM | 16 GB                | DDR3L⠀DC⠀⠀|
 | DSK | 1TB  7200 RPM           | SEAGATE⠀|
+| DSK 2 | 500 GB 7200 RPM | Western Digital | 
 
 </details>
 
