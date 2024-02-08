@@ -59,7 +59,7 @@ I really like the C language, specifically the ANSI C 89 standard, it is well su
   
   ####
      * | LEFA Game Engine |
-     * | Bloody AntZ | 
+     * | Bloody TermiteZ | 
      * | Passnasty fantasy |
  ----
     
