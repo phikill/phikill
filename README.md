@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="45" height="45" src="https://cdn.icon-icons.com/icons2/107/PNG/512/brazil_18295.png" alt="BRAZIL_LOGO_FLAG">
+  <img width="45" height="45" src="br_logo_flag.png" alt="BRAZIL_LOGO_FLAG">
 </p>
 
 It's in English, but I'm a Brazilian software developer  
